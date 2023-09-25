@@ -12,7 +12,7 @@ int main() {
 	fn_blue();
 	printf("\t\tCBS3002 Information Security Lab\n\t\t\tby\n");
 	fn_yellow();
-	printf("\t\tReg No:21BBS0065\tName: Piya Chhibber\n");
+	printf("\t\tReg No:21BBS0121\tName: Mananshu Mandaliya\n");
 	fn_blue();
 	printf("\t\tSubmitted as a part of lab assessment to\n");
 	fn_magenta();
